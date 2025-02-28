@@ -1141,6 +1141,7 @@ li {
 
   .example__caseTitle {
     font-size: 1rem;
+    font-weight: 800;
     line-height: 1.28;
     margin: 4.8vw 0 0;
   }
@@ -1158,6 +1159,7 @@ li {
 
   .example__resultText {
     font-size: 0.875rem;
+    font-weight: 700;
     line-height: 1.4;
   }
 
