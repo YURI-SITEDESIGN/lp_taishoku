@@ -770,6 +770,14 @@ li {
 }
 
 @media (max-width: 768px) {
+  body {
+    color: #13317f;
+    font-family: "Noto Serif JP", "shippori mincho", serif;
+    font-weight: 600;
+    background: linear-gradient(to right, #a2cde8, #fbfeff);
+    line-height: 1;
+  }
+
   html {
     font-size: calc(100vw * 16 / 375);
   }
